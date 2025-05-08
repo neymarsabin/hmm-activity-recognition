@@ -11,7 +11,10 @@ The dataset contains readings from various sensors of a smartphone(Samsung Galax
 - Activities: Walking, Walking Upstairs, Walking Downstairs, Sitting, Standing, Laying
 
 ### What is HMM?
-TBD....TBD
+> You are trying to guess the weather based on the clothes people are wearing. We can see that some people are wearing shorts and t-shirts, while others are wearing jackets and pants. We can also see someone with an umbrella. HMM tries to guess the weather without actually seeing it directly but with the help of observations. 
+
+Hidden Markov Models(HMM) are close relatives of Markov Chains. But their hidden state makes them a unique tool to use when you're interested in find the probability of a sequence of random variables. 
+
 
 ### References
 - [HMM](https://en.wikipedia.org/wiki/Hidden_Markov_model)
